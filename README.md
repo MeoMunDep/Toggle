@@ -31,7 +31,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents axios colors https-proxy-agent socks-proxy-agent moment pako
+   npm i user-agents axios meo-forkcy-colors meo-forkcy-utils meo-forkcy-proxy meo-forkcy-logger moment pako
    ```
 
 2. **Prepare Configuration Files:**
@@ -46,7 +46,6 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
   "rotateProxy": true,
   "proxyRotationInterval": 2,
   "isSkipInvalidProxy": false,
@@ -93,6 +92,6 @@ socks5://user:pass@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd toggle-main/toggle; node meomundep`
+> To run the bot, use the following command: `cd toggle; node meomundep`
 
 🎇Enjoy!

@@ -1,0 +1,1 @@
+console.log(`Wait for me to update new version...`)
